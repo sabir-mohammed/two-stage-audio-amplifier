@@ -11,7 +11,7 @@ The project involved analogue circuit design, PCB layout, simulation and experim
 The complete two-stage amplifier circuit was designed
 and simulated in Proteus.
 
-![Audio Amplifier Schematic](amplifier-schematic.png)
+![Audio Amplifier Schematic](schematics/amplifier-schematic.png)
 
 ## Technical Specifications
 

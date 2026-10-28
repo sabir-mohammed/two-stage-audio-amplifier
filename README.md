@@ -6,6 +6,13 @@ Designed, simulated and constructed a two-stage audio amplifier PCB capable of a
 
 The project involved analogue circuit design, PCB layout, simulation and experimental validation using Proteus and laboratory equipment.
 
+## Circuit Schematic
+
+The complete two-stage amplifier circuit was designed
+and simulated in Proteus.
+
+![Audio Amplifier Schematic](schematics/amplifier-schematic.png)
+
 ## Technical Specifications
 
 - Supply voltage: 12 V DC
